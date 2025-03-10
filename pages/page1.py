@@ -28,7 +28,8 @@ class ModelConfig:
     max_tokens: int
 
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "YOUR_GROQ_API_KEY")
+#GROQ_API_KEY = os.getenv("GROQ_API_KEY", "YOUR_GROQ_API_KEY")
+GROQ_API_KEY='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'
 
 DEEPSEEK_CONFIG = ModelConfig(
     name="DeepSeek",
