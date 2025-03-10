@@ -1,8 +1,7 @@
-asyncio
-docx
+streamlit
 pandas
 python-dotenv
-streamlit
+docx
+openai
 langchain-core
 langchain-groq
-concurrent.futures
