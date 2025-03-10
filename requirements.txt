@@ -1,0 +1,8 @@
+asyncio
+docx
+pandas
+python-dotenv
+streamlit
+langchain-core
+langchain-groq
+concurrent.futures
